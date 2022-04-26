@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">COLLAB</string>
+    <string name="clock">00:00</string>
+    <string name="today">Today</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_log_in">Log In</string>
+    <string name="label_forgot_your_password">Forgot your password?</string>
+    <string name="msg_welcome">Welcome</string>
+    <string name="msg_invalid_pas">Invalid Password</string>
+    <string name="msg_invalid_email">Invalid Email</string>
+    <string name="history">History</string>
+</resources>
