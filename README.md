@@ -2,3 +2,4 @@
 
 ### Language: Kotlin
 ### Architecture used: MVVM
+### This demo project includes Api calling, Room Database, Audio/Video recording, recording history (recyclerview), login validation
